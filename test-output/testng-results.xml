@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-15T13:57:55 IST" name="Suite" finished-at="2022-08-15T13:57:55 IST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2022-08-15T13:57:55 IST" name="Smoke" finished-at="2022-08-15T13:57:55 IST" duration-ms="40">
+      <class name="qaclickacademy.MavenJavaLearn.AppiumTest">
+        <test-method signature="AppiumAutomation()[pri:0, instance:qaclickacademy.MavenJavaLearn.AppiumTest@7334aada]" started-at="2022-08-15T13:57:55 IST" name="AppiumAutomation" finished-at="2022-08-15T13:57:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumAutomation -->
+        <test-method signature="AppiumElementsList()[pri:0, instance:qaclickacademy.MavenJavaLearn.AppiumTest@7334aada]" started-at="2022-08-15T13:57:55 IST" name="AppiumElementsList" finished-at="2022-08-15T13:57:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumElementsList -->
+      </class> <!-- qaclickacademy.MavenJavaLearn.AppiumTest -->
+      <class name="qaclickacademy.MavenJavaLearn.SeleniumTest">
+        <test-method signature="SeleniumAutomation()[pri:0, instance:qaclickacademy.MavenJavaLearn.SeleniumTest@6eda5c9]" started-at="2022-08-15T13:57:55 IST" name="SeleniumAutomation" finished-at="2022-08-15T13:57:55 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumAutomation -->
+        <test-method signature="SeleniumList()[pri:0, instance:qaclickacademy.MavenJavaLearn.SeleniumTest@6eda5c9]" started-at="2022-08-15T13:57:55 IST" name="SeleniumList" finished-at="2022-08-15T13:57:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumList -->
+      </class> <!-- qaclickacademy.MavenJavaLearn.SeleniumTest -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Suite -->
+</testng-results>
